@@ -1,0 +1,6 @@
+# File Created by Jenkins 
+Build Number: 3 
+Timestamp: 10/12/2025 11:15:54.77 
+Jenkins URL: http://localhost:8080/ 
+ 
+This file was created automatically by Jenkins! 
